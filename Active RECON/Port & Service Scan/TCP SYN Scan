@@ -1,1 +1,10 @@
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-09-12 19:02 IST
+Nmap scan report for bugcrowd.com (151.101.194.132)
+Host is up (0.0034s latency).
+Other addresses for bugcrowd.com (not scanned): 151.101.2.132 151.101.130.132 151.101.66.132
+Not shown: 998 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
 
+Nmap done: 1 IP address (1 host up) scanned in 8.13 seconds
