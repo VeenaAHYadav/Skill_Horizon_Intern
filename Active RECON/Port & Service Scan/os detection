@@ -1,0 +1,17 @@
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-09-12 19:20 IST
+Nmap scan report for bugcrowd.com (151.101.130.132)
+Host is up (0.0080s latency).
+Other addresses for bugcrowd.com (not scanned): 151.101.66.132 151.101.2.132 151.101.194.132
+Not shown: 998 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: bridge|VoIP adapter|general purpose
+Running (JUST GUESSING): Oracle Virtualbox (98%), Slirp (98%), AT&T embedded (95%), QEMU (94%)
+OS CPE: cpe:/o:oracle:virtualbox cpe:/a:danny_gasparovski:slirp cpe:/a:qemu:qemu
+Aggressive OS guesses: Oracle Virtualbox Slirp NAT bridge (98%), AT&T BGW210 voice gateway (95%), QEMU user mode network gateway (94%)
+No exact OS matches for host (test conditions non-ideal).
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 9.96 seconds
